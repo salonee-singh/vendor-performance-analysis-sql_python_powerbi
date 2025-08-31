@@ -1,6 +1,6 @@
 #  Vendor Performance Analysis – Retail Inventory & Sales
 
-###  Summary  
+##  Summary  
 Analyzed vendor performance, profitability, and inventory efficiency to support **data-driven purchasing, pricing, and inventory management**. Built using **SQL, Python, and Power BI**, the project provides actionable insights into vendor dependency, bulk purchasing impact, and slow-moving stock challenges.
 
 ---
@@ -25,7 +25,7 @@ Retail companies often face challenges such as **vendor over-dependency, unsold 
 
 ---
 
-## 🛠️ Tools & Technologies  
+##  Tools & Technologies  
 - **SQL** – Data extraction, ETL pipeline, query optimization (CTEs, filtering)  
 - **Python** – EDA, statistical tests (pandas, matplotlib, scipy)  
 - **Power BI / Plotly Dash** – Interactive dashboards & visual storytelling  
@@ -63,7 +63,7 @@ Retail companies often face challenges such as **vendor over-dependency, unsold 
 ---
 
 ##  Results & Conclusion
-- **Built SQL ETL pipelines** handling 1M+ rows, reducing processing time by **~40%** using optimized CTEs and filters.  
+- **Built SQL ETL pipelines** handling 1M+ rows, reducing processing time using optimized CTEs and filters.  
 - **Analyzed vendor data with Python**, uncovering **$2.71M in unsold stock**, **65.7% dependency on top vendors**, and **72%   unit cost savings** from bulk purchases.  
 - **Developed Power BI dashboards** to visualize KPIs such as **profit margins (-∞ to 91.5%)** and **stock turnover (up to     274.5x)**, enabling data-driven strategic sourcing decisions.
 
